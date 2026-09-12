@@ -2,6 +2,10 @@
 
 A fully responsive personal portfolio created for a university assignment using strictly plain HTML, CSS and JavaScript.
 
+## Live website
+
+[saad-portfolio-assignment.vercel.app](https://saad-portfolio-assignment.vercel.app/)
+
 ## Technology
 
 - HTML5
